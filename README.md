@@ -52,29 +52,13 @@ Comparative visualization of actual vs predicted cases
 
 The project uses publicly available COVID-19 datasets:
 
-India_covid_data.csv
+owid-covid-data.csv
 
 Historical COVID-19 cases, deaths, and health indicators
 
-owid-covid-data.csv
-
 Country-wise data for the US, UK, and Chile
 
-Key Features:
-
-Total cases
-
-New cases
-
-Deaths
-
-New deaths
-
-Smoking rates (male & female)
-
-Life expectancy
-
-Development indicators
+Key Features: Total cases, New cases, Deaths, New deaths, Smoking rates (male & female), Life expectancy, Development indicators
 
 ---
 
@@ -106,7 +90,7 @@ Comparative analysis across India, USA, UK, and Chile
 
 Results support the estimation of herd immunity trends when combined with vaccination data
 
-Performance Highlights:
+# Performance Highlights:
 
 Precision: 90.42%
 
@@ -136,4 +120,4 @@ Scikit-learn
 
 TensorFlow / Keras
 
-Environment: Jupyter Notebook
+# Environment: Jupyter Notebook
