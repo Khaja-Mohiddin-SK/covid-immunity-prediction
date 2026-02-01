@@ -14,7 +14,7 @@ Implement LSTM-based time series forecasting
 
 Analyze COVID-19 data for India, USA, UK, and Chile
 
-Compare predicted trends with real-world case and death data
+Compare predicted trends with real-world case and death data 
 
 Demonstrate the effectiveness of deep learning
 
