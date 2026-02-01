@@ -16,7 +16,7 @@ Analyze COVID-19 data for India, USA, UK, and Chile
 
 Compare predicted trends with real-world case and death data
 
-Demonstrate the effectiveness of deep learning in epidemiological modeling
+Demonstrate the effectiveness of deep learning
 
 ---
 
@@ -44,8 +44,6 @@ Adam optimizer with Mean Squared Error (MSE) loss
 
 Trend Analysis
 
-7-day moving averages
-
 Comparative visualization of actual vs predicted cases
 
 ---
@@ -58,11 +56,7 @@ India_covid_data.csv
 
 Historical COVID-19 cases, deaths, and health indicators
 
-India_latest_case.csv
-
-Latest reported COVID-19 data
-
-Global COVID-19 Dataset
+owid-covid-data.csv
 
 Country-wise data for the US, UK, and Chile
 
